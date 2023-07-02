@@ -2095,10 +2095,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #services {
-	background: #313131 url(../images/bg.jpg) no-repeat center;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
+	
 	padding-top: 12rem;
 	padding-bottom: 12rem;
 	color: white;
@@ -2110,7 +2107,7 @@ header .logo a {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: #151515;
+	background: ##FFFFFF;
 	opacity: .9;
 }
 
@@ -2588,6 +2585,8 @@ footer .copyright span:last-child::after {
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
+
+
 #go-top a i {
 	font-size: 1.6rem;
 	line-height: inherit;
